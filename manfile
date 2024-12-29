@@ -1,0 +1,14 @@
+.\" Manpage for charshow
+.TH man 8 "28 Dec 2024" "0.1" "charshow man page"
+.SH NAME
+charshow
+.SH SYNOPSIS
+charshow [ENTER] [CHARACTER]
+.SH DESCRIPTION
+A microscopic terminal utility that takes in a character and returns their ASCII code.
+.SH OPTIONS
+charshow takes no options.
+.SH BUGS
+Currently no known bugs.
+.SH AUTHOR
+Platon Kralin (platon.kralin@proton.me)
